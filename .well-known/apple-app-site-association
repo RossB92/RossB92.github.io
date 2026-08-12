@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["NNWPQUSKTF.com.rossbillington.babyband"],
+        "components": [
+          {
+            "/": "/babyband/t/*",
+            "comment": "Matches BabyBand NFC tag links, e.g. /babyband/t/04A224"
+          }
+        ]
+      }
+    ]
+  }
+}
